@@ -1,5 +1,5 @@
 
-#  Fashion Apparel Classification.
+#  Fashion Apparel Classification Using CNN.
 
 ##  Overview
 This project focuses on **classifying fashion apparel images** (such as shirts, dresses, shoes, etc.) using **Convolutional Neural Networks (CNNs)**.  
